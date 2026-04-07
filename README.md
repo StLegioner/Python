@@ -6,8 +6,7 @@ Perlin Noise Texture Generator (PNTG).
 
 Generates noise texture on base of selected paramets. exe file can work as standalone tool.
    
-=======================================================================================================   
-
+====================================================
 Riot Player Information 
 
 Gather information about player according to his Name and Tag. 
